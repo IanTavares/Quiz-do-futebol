@@ -1,4 +1,4 @@
-from time import sleep
+from time import sleep #importei um temporizador
 print("Seja bem vindo ao quiz do Esporte")
 user = input("Quer começar a jogar? (S/N): ")
 if user in 'Nn':
